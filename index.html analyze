@@ -1,1 +1,24 @@
-e
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+      <title>CH 1 Analyze, Correct, Improve</title>
+</head>
+  <body>
+    <p>Edwin, 2/12/24</p>
+    <p>Chapter 1Analyze, Correct, Improve</p>
+    <hr>
+
+
+    <p>HTML stands for Hypertext markup Language - True</p>
+
+    <p>You use a text editor to create HTML pages - True</p>
+
+    <p>HTML 5.2 is the latest version of HTML. - False HTML 5 is the latest version</p>
+    
+    <p>HTML is rendered in a browser such as microsoft edge, google chrome, firefox, opera, or safari. - True</p>
+    
+ </body>
+
+<--IF i did not make these corrections the page would not render, since not even the doctype was correct.-->
+    
